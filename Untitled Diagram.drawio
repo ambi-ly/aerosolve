@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T16:59:08.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="R9NY7KSYJInd8wQK-9c0" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T17:00:16.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NZS2ALIad-UaffG90tdl" version="14.7.6" type="github">
   <diagram id="R12qof4a39tiVWxSPqpj" name="Page-1">
     <mxGraphModel dx="2143" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,6 +32,11 @@
         <mxCell id="8bFD1UBiYn1tdhBpt5cX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8bFD1UBiYn1tdhBpt5cX-9" target="8bFD1UBiYn1tdhBpt5cX-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8bFD1UBiYn1tdhBpt5cX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bFD1UBiYn1tdhBpt5cX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8bFD1UBiYn1tdhBpt5cX-9" value="Booking Service&lt;br&gt;/book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
         </mxCell>
@@ -55,6 +60,11 @@
         </mxCell>
         <mxCell id="8bFD1UBiYn1tdhBpt5cX-24" value="For the initial design,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFD1UBiYn1tdhBpt5cX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bFD1UBiYn1tdhBpt5cX-25" target="8bFD1UBiYn1tdhBpt5cX-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8bFD1UBiYn1tdhBpt5cX-25" value="Booking Service&lt;br&gt;/book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
@@ -82,6 +92,14 @@
         </mxCell>
         <mxCell id="8bFD1UBiYn1tdhBpt5cX-37" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8bFD1UBiYn1tdhBpt5cX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8bFD1UBiYn1tdhBpt5cX-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8bFD1UBiYn1tdhBpt5cX-39" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
